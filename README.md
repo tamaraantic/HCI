@@ -1,6 +1,5 @@
-# HCI
+# Hospital System
 
-Hospital System
 A web application for managing hospital operations.
 System supports:
 -patient role
