@@ -1,0 +1,4 @@
+Paracetamol|10|Valid|Sastojak 1|Sastojak 2|Sastojak 3
+Andol|10|OnHold|Sastojak a|Sastojak b|Sastojak c
+Brufen|10|OnHold|Sastojak z|Sastojak y|Sastojak x
+Pandaol|10|OnHold|Sastojak z|Sastojak y|Sastojak x

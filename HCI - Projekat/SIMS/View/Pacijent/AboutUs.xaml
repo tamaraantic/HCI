@@ -1,0 +1,66 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SIMS.View.Pacijent"
+      xmlns:syncfusion="http://schemas.syncfusion.com/wpf" xmlns:model="clr-namespace:SIMS.Model" d:DataContext="{d:DesignInstance Type=model:User}" x:Class="SIMS.View.Pacijent.AboutUs"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AboutUs">
+
+
+
+    <Grid x:Name="MCGrid" Background="Transparent" >
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition  />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <WrapPanel x:Name="id9" Grid.Column="0" HorizontalAlignment="center" Grid.Row="0" VerticalAlignment="Center"  Margin="28,26,30.2,21.8" Height="177" Width="209" >
+            <Image  VerticalAlignment="Top" Width="112" Margin="50 0 50 0" Source="/Assets/miljko.jpg" Height="69"/>
+            <TextBox IsReadOnly="True" Style="{DynamicResource tekst1}" Background="Transparent" x:Name="tb001" Height="23" TextWrapping="Wrap" TextAlignment="Center" Text="Prof. dr. Miljko Ristić" BorderThickness="0 0 0 2" Width="196" Margin="5" BorderBrush="SkyBlue"/>
+            <TextBox IsReadOnly="True" Style="{DynamicResource tekst1}" Background="Transparent" x:Name="tb002" Height="23" TextWrapping="Wrap" TextAlignment="Center" Text="Kardiohirurg" BorderThickness="0 0 0 2" Width="197" HorizontalAlignment="Center" BorderBrush="SkyBlue"/>
+            <TextBox IsReadOnly="True" Style="{DynamicResource tekst1}" Background="Transparent" x:Name="tb003" Height="39" TextWrapping="Wrap" TextAlignment="Center" BorderThickness="0 0 0 2" Text="Clan Srpske Kraljevske Akademije nauka" Width="190" Margin="5" BorderBrush="SkyBlue"/>
+        </WrapPanel>
+
+        <WrapPanel x:Name="id1" Grid.Column="0" HorizontalAlignment="center" Grid.Row="1" VerticalAlignment="Center"  Margin="38,10.2,30.2,18.6" Height="196" Width="199">
+            <Image  VerticalAlignment="Top" Width="107" Margin="50 0 50 0" Source="/Assets/branimir.jpg" Height="64"/>
+            <TextBox IsReadOnly="True" Style="{DynamicResource tekst1}" Background="Transparent" x:Name="tb011" Height="23" TextWrapping="Wrap" TextAlignment="Center" Text="Prof. dr Brnimir Nestorovic" BorderThickness="0 0 0 2" Width="192" Margin="5" BorderBrush="SkyBlue"/>
+            <TextBox IsReadOnly="True" Style="{DynamicResource tekst1}" Background="Transparent" x:Name="tb012" Height="34" TextWrapping="Wrap" TextAlignment="Center" Text="Pedijatar, Pneumolog,Alergolog" BorderThickness="0 0 0 2" Width="196" HorizontalAlignment="Center" BorderBrush="SkyBlue"/>
+            <TextBox IsReadOnly="True" Style="{DynamicResource tekst1}" Background="Transparent" x:Name="tb013" Height="37" TextWrapping="Wrap" TextAlignment="Center" BorderThickness="0 0 0 2" Text="Orden Karadjordjeve zvezda drugog stepena" Width="191" Margin="5" BorderBrush="SkyBlue"/>
+        </WrapPanel>
+
+        <WrapPanel x:Name="id3" Grid.Column="1" HorizontalAlignment="center" Grid.Row="0" VerticalAlignment="Center"  Margin="29.8,10,33.6,21.8" Height="193" Width="203">
+            <Image VerticalAlignment="Top" Width="90" Margin="50 0 50 0" Source="/Assets/dejan.jpg" Height="86"/>
+            <TextBox IsReadOnly="True" Style="{DynamicResource tekst1}" Background="Transparent" x:Name="tb101" Height="23" TextWrapping="Wrap" TextAlignment="Center" Text="Dr. Dejan Dimitrijevic" BorderThickness="0 0 0 2" Width="186" Margin="5" BorderBrush="SkyBlue"/>
+            <TextBox IsReadOnly="True" Style="{DynamicResource tekst1}" Background="Transparent" x:Name="tb102" Height="33" TextWrapping="Wrap" TextAlignment="Center" Text="Specijalista ginekologije i akuserstva" BorderThickness="0 0 0 2" Width="189" HorizontalAlignment="Center" BorderBrush="SkyBlue"/>
+            <TextBox IsReadOnly="True" Style="{DynamicResource tekst1}" Background="Transparent" x:Name="tb103" Height="35" TextWrapping="Wrap" TextAlignment="Center" BorderThickness="0 0 0 2" Text="Jedan od 6 najboljih ginekologa u Srbiji" Width="181" Margin="5" BorderBrush="SkyBlue"/>
+        </WrapPanel>
+        <WrapPanel x:Name="id4" Grid.Column="1" HorizontalAlignment="center" Grid.Row="1" VerticalAlignment="Center"  Margin="42.8,10.2,33.6,37.6" Height="177" Width="190">
+            <Image  VerticalAlignment="Top" Width="86" Margin="50 0 50 0" Source="/Assets/zoran.jpg" Height="64"/>
+            <TextBox IsReadOnly="True" Style="{DynamicResource tekst1}" Background="Transparent" x:Name="tb111" Height="23" TextWrapping="Wrap" TextAlignment="Center" Text="Dr Zoran Zikic" BorderThickness="0 0 0 2" Width="186" Margin="5" BorderBrush="SkyBlue"/>
+            <TextBox IsReadOnly="True" Style="{DynamicResource tekst1}" Background="Transparent" x:Name="tb112" Height="23" TextWrapping="Wrap" TextAlignment="Center" Text="Oftamolog" BorderThickness="0 0 0 2" Width="186" HorizontalAlignment="Center" BorderBrush="SkyBlue"/>
+            <TextBox IsReadOnly="True" Style="{DynamicResource tekst1}" Background="Transparent" x:Name="tb113" Height="39" TextWrapping="Wrap" TextAlignment="Center" BorderThickness="0 0 0 2" Text="Dobitnik zlatne plakete za oftomalogiju" Width="178" Margin="5" BorderBrush="SkyBlue"/>
+        </WrapPanel>
+        <WrapPanel x:Name="id6" Grid.Column="2" HorizontalAlignment="center" Grid.Row="0" VerticalAlignment="Center"  Margin="20.4,10,26,21.8" Height="193" Width="220">
+            <Image  VerticalAlignment="Top" Width="92" Margin="50 0 50 0" Source="/Assets/radoje.jpg" Height="94"/>
+            <TextBox IsReadOnly="True" Style="{DynamicResource tekst1}" Background="Transparent" x:Name="tb201" Height="23" TextWrapping="Wrap" TextAlignment="Center" Text="Prof.dr. Radoje Doder" BorderThickness="0 0 0 2" Width="206" Margin="5" BorderBrush="SkyBlue"/>
+            <TextBox IsReadOnly="True" Style="{DynamicResource tekst1}" Background="Transparent" x:Name="tb202" Height="23" TextWrapping="Wrap" TextAlignment="Center" Text="Internista gastroenterolog" BorderThickness="0 0 0 2" Width="212" HorizontalAlignment="Center" BorderBrush="SkyBlue"/>
+            <TextBox IsReadOnly="True" Style="{DynamicResource tekst1}" Background="Transparent" x:Name="tb203" Height="37" TextWrapping="Wrap" TextAlignment="Center" BorderThickness="0 0 0 2" Text="Objavio preko 60 naucno-istrazivackih radova" Width="205" Margin="5" BorderBrush="SkyBlue"/>
+        </WrapPanel>
+        <WrapPanel x:Name="id7" Grid.Column="2" HorizontalAlignment="center" Grid.Row="1" VerticalAlignment="Center"  Margin="31.4,10.2,45,47.6" Width="190" Height="167">
+            <Image  VerticalAlignment="Top" Width="99" Margin="50 0 50 0" Source="/Assets/nebojsa.jpg" Height="62" RenderTransformOrigin="0.503,0.743"/>
+            <TextBox IsReadOnly="True" Style="{DynamicResource tekst1}" Background="Transparent" x:Name="tb211" Height="23" TextWrapping="Wrap" TextAlignment="Center" Text="Prof.dr Nebojsa Tasic" BorderThickness="0 0 0 2" Width="185" Margin="5"  BorderBrush="SkyBlue"/>
+            <TextBox IsReadOnly="True" Style="{DynamicResource tekst1}" Background="Transparent" x:Name="tb212" Height="23" TextWrapping="Wrap" TextAlignment="Center" Text="Kardiolog" BorderThickness="0 0 0 2" Width="184" HorizontalAlignment="Center" BorderBrush="SkyBlue"/>
+            <TextBox IsReadOnly="True" Style="{DynamicResource tekst1}" Background="Transparent" x:Name="tb213" Height="23" TextWrapping="Wrap" TextAlignment="Center" BorderThickness="0 0 0 2" Text="Autor 5 knjiga o kardiologiji" Width="178" Margin="5" BorderBrush="SkyBlue"/>
+        </WrapPanel>
+
+    </Grid>
+</Page>

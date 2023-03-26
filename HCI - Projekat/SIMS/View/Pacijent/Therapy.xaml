@@ -1,0 +1,58 @@
+﻿<Page x:Class="SIMS.View.Pacijent.Therapy"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SIMS.View.Pacijent"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Therapy">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="6*"/>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="5*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Grid.Column="0" Orientation="Vertical">
+            <TextBlock Text="Lek 1" 
+                       FontFamily="/Fonts/#Poppins" Foreground="White" FontSize="20"/>
+            <TextBlock Text="Naziv leka: Paracetamol"
+                       FontFamily="/Fonts/#Poppins" Foreground="White" FontSize="20"/>
+            <TextBlock Text="Trajanje terapije: 20/08/2022 -      &#x9;                 27/08/2022" TextWrapping="Wrap"
+                       FontFamily="/Fonts/#Poppins" Foreground="White" FontSize="20" Margin="0,0,-0.6,0" Height="88"/>
+        </StackPanel>
+        <Image Source="/Assets/paracetamol.jpg" HorizontalAlignment="Center" Width="158" Grid.Column="1" Grid.Row="0" Margin="53,10,39.4,3.4"/>
+        <TextBlock Grid.Row="0" Grid.Column="2" TextWrapping="Wrap"
+                   FontFamily="/Fonts/#Poppins" Foreground="White" FontSize="20"><Run Text="Detalji terapije:"/><LineBreak/><Run Text="Bolovi u ledjima. "/><LineBreak/><Run Text="Piti 2x dnevno. Minimalan vremenski razmak 8 sati."/></TextBlock>
+
+        <StackPanel Grid.Row="1" Grid.Column="0" Orientation="Vertical">
+            <TextBlock Text="Lek 2" 
+                       FontFamily="/Fonts/#Poppins" Foreground="White" FontSize="20"/>
+            <TextBlock Text="Naziv leka: Bromazepam"
+                       FontFamily="/Fonts/#Poppins" Foreground="White" FontSize="20"/>
+            <TextBlock Text="Trajanje terapije: 20/08/2022 -    &#x9;                27/08/2022" TextWrapping="Wrap"
+                       FontFamily="/Fonts/#Poppins" Foreground="White" FontSize="20" Margin="0,0,-0.6,0" Height="88"/>
+        </StackPanel>
+        <Image Source="/Assets/bromazepam.jpg" HorizontalAlignment="Center" Width="158" Margin="53,9.6,39.4,20" Grid.Column="1" Grid.Row="1"/>
+        <TextBlock Grid.Row="1" Grid.Column="2" TextWrapping="Wrap"
+                   FontFamily="/Fonts/#Poppins" Foreground="White" FontSize="20"><Run Text="Detalji terapije:"/><LineBreak/><Run Text="Pokidane tetive na desnom zglobu. Za opustanje misica propisan bromazepam."/></TextBlock>
+
+        <StackPanel Grid.Row="2" Grid.Column="0" Orientation="Vertical">
+            <TextBlock Text="Lek 3" 
+                       FontFamily="/Fonts/#Poppins" Foreground="White" FontSize="20"/>
+            <TextBlock Text="Naziv leka: Nimulid"
+                       FontFamily="/Fonts/#Poppins" Foreground="White" FontSize="20"/>
+            <TextBlock Text="Trajanje terapije: 20/08/2022 - &#x9;&#x9;  27/08/2022" TextWrapping="Wrap"
+                       FontFamily="/Fonts/#Poppins" Foreground="White" FontSize="20" Margin="0,0,-0.6,0" Height="88"/>
+        </StackPanel>
+        <Image Source="/Assets/nimulid.jpg" HorizontalAlignment="Center" Width="158" Margin="53,0,39.4,32.6" Grid.Column="1" Grid.Row="2"/>
+        <TextBlock Grid.Row="2" Grid.Column="2" TextWrapping="Wrap"
+                   FontFamily="/Fonts/#Poppins" Foreground="White" FontSize="20"><Run Text="Detalji terapije:"/><LineBreak/><Run Text="Nakon hirurskog vadjenja donje desnog kutnjaka, propisasn nimulid za ublazavanje bolova."/></TextBlock>
+    </Grid>
+</Page>

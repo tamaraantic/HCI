@@ -1,0 +1,10 @@
+HOSPITAL_REPORT|HYGIENE|Bolnicka soba bila je uredna i cista|0
+HOSPITAL_REPORT|HYGIENE|Sanitarni cvor je bio uredan i cist|1
+HOSPITAL_REPORT|STAFF|Medicinski tehicar se odnostio ljubazno|2
+HOSPITAL_REPORT|STAFF|Lijecnik se odnosio ljubazno|3
+HOSPITAL_REPORT|STAFF|Medicinska sestra/tehnicar je pokazao/la veliku strucnost|4
+DOCTOR_REPORT|APPROACH|Sudjelovao/la sam u odlukama o lijecenju|5
+DOCTOR_REPORT|APPROACH|Dobio/la sam potrebno objanjenje o svojoj bolesti|6
+DOCTOR_REPORT|APPROACH|Lijecnik je razgovarao o dijangozi na meni razumljiv nacin|7
+DOCTOR_REPORT|PROFESSIONALISM|Lijecnik je pokazao brigu za mene|8
+DOCTOR_REPORT|PROFESSIONALISM|Lijecnik je pokazao/la visoku strucnost|9

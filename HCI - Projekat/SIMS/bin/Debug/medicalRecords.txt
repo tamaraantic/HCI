@@ -1,0 +1,3 @@
+193|86|aPositive|2408000101111|Prasina|Polen
+180|80|bPositive|2408010222156|Penicilin
+180|80|bPositive|2212010103158|Sastojak 1|Sastojak 2

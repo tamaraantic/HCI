@@ -1,0 +1,870 @@
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Assets\therapy.png
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\SIMS.exe.config
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\SIMS.exe
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\SIMS.pdb
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\CommonServiceLocator.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\ControlzEx.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Prism.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Syncfusion.SfBusyIndicator.WPF.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Syncfusion.SfInput.WPF.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Syncfusion.SfScheduler.WPF.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Syncfusion.SfSkinManager.WPF.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Syncfusion.Themes.MaterialLight.WPF.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\ToastNotifications.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\ToastNotifications.Messages.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\WPF.EventCalendar.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\ControlzEx.pdb
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Prism.pdb
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Prism.xml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Syncfusion.SfBusyIndicator.WPF.xml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Syncfusion.SfInput.WPF.xml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Syncfusion.SfScheduler.WPF.xml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Syncfusion.SfSkinManager.WPF.xml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Syncfusion.Themes.MaterialLight.WPF.xml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\Resource\Dictionary.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\Templates.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\AppointmentView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\CreateAppointmentView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\EditAppointmentView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\EditPatient.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\EmergencyView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\EquipmentView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\MainSecretaryWindow.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\MedicalRecordView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\AllPatientView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\NewPatientView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\OrderEquipmentView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\UpdateEquipmentView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\AccountView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\AddAppointmentView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\AddOperationView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\AddTherapyView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\AllAppointmentsView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\AllOperationsView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\AllRequirentmentsView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\ChangePasswordView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\DaysOffRequestView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\DetailedAppointmentView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\DetailedRequestView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\EditAccountView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\EditAppointmentView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\EditRoomView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\JoinAppointmentView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\MedicineValidationView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\SuggestedAppointmentsView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\VacationRequestView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\CorrectWindow.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\DeleteSuccesfully.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\EditMedicine.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\EqupmentPanel.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\LogWindow.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\MedecineList.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\MergeRooms.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\MoveEquipment.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\RenovateForm.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\RenovateWindow.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\Report.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\Rooms.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\SplitRoom.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\SuccesfullyUpdate.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\AddMedicine.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\Tutorials\AddRoomTutorial.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\Tutorials\DelateRoomTutorial.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\Tutorials\RenovateRoomTutorial.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\Tutorials\UpdateRoomTutorial.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\UpdateForm.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\UpdateRoomWindow.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\AddAppointmentPage.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\AddNote.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\Appointments.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\DetailsAppointmentPage.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\EditAppointmentPage.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\Feedback.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\HomePage.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\MainPatientWindow.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\Notes.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\SuggestedAppointments.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\AppointmentView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\CreateAppointmentView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\Notification.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\CreateMeetingView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\CreatePatient.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\DaysOffRequestView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\DenyRequestView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\EditAppointmentView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\EditPatient.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\EmergencyView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\EquipmentView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\MainSecretaryWindow.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\MedicalRecordView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\AllPatientView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\AddRoomWindow.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\DeleteRoom.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\MainWindowMenager.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\RoomsList.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\MeetingsView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\NewPatientView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\OrderEquipmentView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\UpdateEquipmentView.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\SIMS_Content.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\SIMS_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\SIMS_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\App.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\AccountView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\AddAppointmentView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\AddOperationView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\AddTherapyView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\AllAppointmentsView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\AllOperationsView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\AllRequirentmentsView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\ChangePasswordView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\DaysOffRequestView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\DetailedAppointmentView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\DetailedRequestView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\EditAccountView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\EditAppointmentView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\EditRoomView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\JoinAppointmentView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\MainWindow.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\MedicineValidationView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\SuggestedAppointmentsView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\DoctorMVVM\VacationRequestView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\CorrectWindow.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\DeleteSuccesfully.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\EditMedicine.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\EqupmentPanel.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\LogWindow.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\MedecineList.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\MergeRooms.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\MoveEquipment.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\RenovateForm.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\RenovateWindow.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\Report.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\Rooms.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\SplitRoom.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\SuccesfullyUpdate.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\AddMedicine.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\Tutorials\AddRoomTutorial.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\Tutorials\DelateRoomTutorial.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\Tutorials\RenovateRoomTutorial.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\Tutorials\UpdateRoomTutorial.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\UpdateForm.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\UpdateRoomWindow.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\AddAppointmentPage.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\AddNote.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\Appointments.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\DetailsAppointmentPage.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\EditAppointmentPage.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\Feedback.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\HomePage.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\MainPatientWindow.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\Notes.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\SuggestedAppointments.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\Notification.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\CreateMeetingView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\CreatePatient.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\DaysOffRequestView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\DenyRequestView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\AddRoomWindow.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\DeleteRoom.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\MainWindowMenager.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Menager\RoomsList.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Sekretar\MeetingsView.baml
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\SIMS.g.resources
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\SIMS.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\SIMS.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\SIMS.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\SIMS.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\SIMS.exe
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\SIMS.pdb
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\SIMS.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\AboutUs.g.cs
+C:\Users\Korisnik\Desktop\simsNew\SIMS\SIMS\SIMS\obj\Debug\View\Pacijent\AboutUs.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\SIMS.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\Resource\Dictionary.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\Templates.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\AppointmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\CreateAppointmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\EditAppointmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\EditPatient.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\EmergencyView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\EquipmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\MainSecretaryWindow.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\MedicalRecordView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\AllPatientView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\NewPatientView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\OrderEquipmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\UpdateEquipmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\AccountView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\AddAppointmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\AddOperationView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\AddTherapyView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\AllAppointmentsView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\AllOperationsView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\AllRequirentmentsView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\ChangePasswordView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\DaysOffRequestView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\DetailedAppointmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\DetailedRequestView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\EditAccountView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\EditAppointmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\EditRoomView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\JoinAppointmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\MedicineValidationView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\SuggestedAppointmentsView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\VacationRequestView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\CorrectWindow.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\DeleteSuccesfully.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\EditMedicine.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\EqupmentPanel.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\LogWindow.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\MedecineList.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\MergeRooms.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\MoveEquipment.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\RenovateForm.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\RenovateWindow.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\Report.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\Rooms.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\SplitRoom.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\SuccesfullyUpdate.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\AddMedicine.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\Tutorials\AddRoomTutorial.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\Tutorials\DelateRoomTutorial.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\Tutorials\RenovateRoomTutorial.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\Tutorials\UpdateRoomTutorial.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\UpdateForm.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\UpdateRoomWindow.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\AboutUs.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\AddAppointmentPage.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\AddNote.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\Appointments.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\DetailsAppointmentPage.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\EditAppointmentPage.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\Feedback.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\HomePage.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\MainPatientWindow.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\Notes.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\SuggestedAppointments.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\AppointmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\CreateAppointmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\Notification.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\CreateMeetingView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\CreatePatient.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\DaysOffRequestView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\DenyRequestView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\EditAppointmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\EditPatient.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\EmergencyView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\EquipmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\MainSecretaryWindow.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\MedicalRecordView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\AllPatientView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\AddRoomWindow.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\DeleteRoom.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\MainWindowMenager.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\RoomsList.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\MeetingsView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\NewPatientView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\OrderEquipmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\UpdateEquipmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\SIMS_Content.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\SIMS_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\SIMS_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\SIMS.exe
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\SIMS.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Assets\therapy.png
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\SIMS.exe.config
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\SIMS.exe
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\SIMS.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\CommonServiceLocator.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\ControlzEx.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Prism.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Syncfusion.SfBusyIndicator.WPF.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Syncfusion.SfInput.WPF.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Syncfusion.SfScheduler.WPF.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Syncfusion.SfSkinManager.WPF.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Syncfusion.Themes.MaterialLight.WPF.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\ToastNotifications.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\ToastNotifications.Messages.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\WPF.EventCalendar.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\ControlzEx.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Prism.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Prism.xml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Syncfusion.SfBusyIndicator.WPF.xml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Syncfusion.SfInput.WPF.xml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Syncfusion.SfScheduler.WPF.xml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Syncfusion.SfSkinManager.WPF.xml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Syncfusion.Themes.MaterialLight.WPF.xml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\App.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\AccountView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\AddAppointmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\AddOperationView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\AddTherapyView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\AllAppointmentsView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\AllOperationsView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\AllRequirentmentsView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\ChangePasswordView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\DaysOffRequestView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\DetailedAppointmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\DetailedRequestView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\EditAccountView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\EditAppointmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\EditRoomView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\JoinAppointmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\MainWindow.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\MedicineValidationView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\SuggestedAppointmentsView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\DoctorMVVM\VacationRequestView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\CorrectWindow.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\DeleteSuccesfully.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\EditMedicine.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\EqupmentPanel.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\LogWindow.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\MedecineList.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\MergeRooms.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\MoveEquipment.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\RenovateForm.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\RenovateWindow.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\Report.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\Rooms.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\SplitRoom.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\SuccesfullyUpdate.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\AddMedicine.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\Tutorials\AddRoomTutorial.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\Tutorials\DelateRoomTutorial.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\Tutorials\RenovateRoomTutorial.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\Tutorials\UpdateRoomTutorial.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\UpdateForm.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\UpdateRoomWindow.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\AboutUs.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\AddAppointmentPage.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\AddNote.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\Appointments.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\DetailsAppointmentPage.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\EditAppointmentPage.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\Feedback.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\HomePage.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\MainPatientWindow.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\Notes.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\SuggestedAppointments.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\Notification.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\CreateMeetingView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\CreatePatient.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\DaysOffRequestView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\DenyRequestView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\AddRoomWindow.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\DeleteRoom.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\MainWindowMenager.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Menager\RoomsList.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Sekretar\MeetingsView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\SIMS.g.resources
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\SIMS.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\SIMS.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\SIMS.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\SIMS.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\Info.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI-tasapako\SIMS\obj\Debug\View\Pacijent\Info.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Assets\therapy.png
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\SIMS.exe.config
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\SIMS.exe
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\SIMS.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\CommonServiceLocator.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\ControlzEx.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Prism.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.SfBusyIndicator.WPF.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.SfInput.WPF.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.SfScheduler.WPF.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.SfSkinManager.WPF.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.Themes.MaterialLight.WPF.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\ToastNotifications.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\ToastNotifications.Messages.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\WPF.EventCalendar.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\ControlzEx.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Prism.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Prism.xml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.SfBusyIndicator.WPF.xml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.SfInput.WPF.xml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.SfScheduler.WPF.xml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.SfSkinManager.WPF.xml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.Themes.MaterialLight.WPF.xml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\Resource\Dictionary.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\Templates.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\AppointmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\CreateAppointmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\EditAppointmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\EditPatient.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\EmergencyView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\EquipmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\MainSecretaryWindow.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\MedicalRecordView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\AllPatientView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\NewPatientView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\OrderEquipmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\UpdateEquipmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AccountView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AddAppointmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AddOperationView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AddTherapyView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AllAppointmentsView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AllOperationsView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AllRequirentmentsView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\ChangePasswordView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\DaysOffRequestView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\DetailedAppointmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\DetailedRequestView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\EditAccountView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\EditAppointmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\EditRoomView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\JoinAppointmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\MedicineValidationView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\SuggestedAppointmentsView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\VacationRequestView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\CorrectWindow.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\DeleteSuccesfully.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\EditMedicine.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\EqupmentPanel.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\LogWindow.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\MedecineList.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\MergeRooms.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\MoveEquipment.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\RenovateForm.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\RenovateWindow.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Report.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Rooms.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\SplitRoom.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\SuccesfullyUpdate.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\AddMedicine.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Tutorials\AddRoomTutorial.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Tutorials\DelateRoomTutorial.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Tutorials\RenovateRoomTutorial.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Tutorials\UpdateRoomTutorial.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\UpdateForm.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\UpdateRoomWindow.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\AboutUs.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\AddAppointmentPage.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\AddNote.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Appointments.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\DetailsAppointmentPage.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\EditAppointmentPage.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Feedback.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\HomePage.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Info.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\MainPatientWindow.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Notes.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\SuggestedAppointments.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\AppointmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\CreateAppointmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\CreateMeetingView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\CreatePatient.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\DaysOffRequestView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\DenyRequestView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\EditAppointmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\EditPatient.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\EmergencyView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\EquipmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\MainSecretaryWindow.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\MedicalRecordView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\AllPatientView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\AddRoomWindow.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\DeleteRoom.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\MainWindowMenager.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\RoomsList.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\MeetingsView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\NewPatientView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\OrderEquipmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\UpdateEquipmentView.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS_Content.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\App.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AccountView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AddAppointmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AddOperationView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AddTherapyView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AllAppointmentsView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AllOperationsView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AllRequirentmentsView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\ChangePasswordView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\DaysOffRequestView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\DetailedAppointmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\DetailedRequestView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\EditAccountView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\EditAppointmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\EditRoomView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\JoinAppointmentView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\MainWindow.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\MedicineValidationView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\SuggestedAppointmentsView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\VacationRequestView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\CorrectWindow.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\DeleteSuccesfully.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\EditMedicine.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\EqupmentPanel.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\LogWindow.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\MedecineList.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\MergeRooms.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\MoveEquipment.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\RenovateForm.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\RenovateWindow.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Report.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Rooms.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\SplitRoom.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\SuccesfullyUpdate.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\AddMedicine.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Tutorials\AddRoomTutorial.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Tutorials\DelateRoomTutorial.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Tutorials\RenovateRoomTutorial.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Tutorials\UpdateRoomTutorial.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\UpdateForm.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\UpdateRoomWindow.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\AboutUs.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\AddAppointmentPage.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\AddNote.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Appointments.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\DetailsAppointmentPage.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\EditAppointmentPage.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Feedback.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\HomePage.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Info.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\MainPatientWindow.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Notes.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\SuggestedAppointments.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\CreateMeetingView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\CreatePatient.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\DaysOffRequestView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\DenyRequestView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\AddRoomWindow.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\DeleteRoom.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\MainWindowMenager.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\RoomsList.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\MeetingsView.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS.g.resources
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS.exe
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS.pdb
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\MedicalRecord.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\MedicalRecord.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Therapy.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Therapy.baml
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Report.g.cs
+C:\Users\Korisnik\Desktop\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Report.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Assets\therapy.png
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\SIMS.exe.config
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\SIMS.exe
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\SIMS.pdb
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\CommonServiceLocator.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\ControlzEx.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Prism.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.SfBusyIndicator.WPF.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.SfInput.WPF.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.SfScheduler.WPF.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.SfSkinManager.WPF.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.Themes.MaterialLight.WPF.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\ToastNotifications.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\ToastNotifications.Messages.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\WPF.EventCalendar.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\ControlzEx.pdb
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Prism.pdb
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Prism.xml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.SfBusyIndicator.WPF.xml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.SfInput.WPF.xml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.SfScheduler.WPF.xml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.SfSkinManager.WPF.xml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Syncfusion.Themes.MaterialLight.WPF.xml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS.csprojAssemblyReference.cache
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\Resource\Dictionary.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\Templates.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\AppointmentView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\CreateAppointmentView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\EditAppointmentView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\EditPatient.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\EmergencyView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\EquipmentView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\MainSecretaryWindow.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\MedicalRecordView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\AllPatientView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\NewPatientView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\OrderEquipmentView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\UpdateEquipmentView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AccountView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AddAppointmentView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AddOperationView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AddTherapyView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AllAppointmentsView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AllOperationsView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AllRequirentmentsView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\ChangePasswordView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\DaysOffRequestView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\DetailedAppointmentView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\DetailedRequestView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\EditAccountView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\EditAppointmentView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\EditRoomView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\JoinAppointmentView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\MainWindow.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\MedicineValidationView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\SuggestedAppointmentsView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\VacationRequestView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\CorrectWindow.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\DeleteSuccesfully.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\EditMedicine.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\EqupmentPanel.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\LogWindow.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\MedecineList.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\MergeRooms.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\MoveEquipment.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\RenovateForm.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\RenovateWindow.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Report.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Rooms.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\SplitRoom.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\SuccesfullyUpdate.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\AddMedicine.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Tutorials\AddRoomTutorial.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Tutorials\DelateRoomTutorial.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Tutorials\RenovateRoomTutorial.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Tutorials\UpdateRoomTutorial.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\UpdateForm.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\UpdateRoomWindow.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\AboutUs.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\AddAppointmentPage.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\AddNote.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Appointments.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\DetailsAppointmentPage.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\EditAppointmentPage.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Feedback.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\HomePage.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Info.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\MainPatientWindow.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\MedicalRecord.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Notes.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Report.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\SuggestedAppointments.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Therapy.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\AppointmentView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\CreateAppointmentView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\CreateMeetingView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\CreatePatient.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\DaysOffRequestView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\DenyRequestView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\EditAppointmentView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\EditPatient.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\EmergencyView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\EquipmentView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\MainSecretaryWindow.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\MedicalRecordView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\AllPatientView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\AddRoomWindow.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\DeleteRoom.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\MainWindowMenager.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\RoomsList.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\MeetingsView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\NewPatientView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\OrderEquipmentView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\UpdateEquipmentView.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\App.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS_Content.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS_MarkupCompile.cache
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS_MarkupCompile.lref
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\App.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AccountView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AddAppointmentView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AddOperationView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AddTherapyView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AllAppointmentsView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AllOperationsView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\AllRequirentmentsView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\ChangePasswordView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\DaysOffRequestView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\DetailedAppointmentView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\DetailedRequestView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\EditAccountView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\EditAppointmentView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\EditRoomView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\JoinAppointmentView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\MainWindow.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\MedicineValidationView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\SuggestedAppointmentsView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\DoctorMVVM\VacationRequestView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\CorrectWindow.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\DeleteSuccesfully.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\EditMedicine.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\EqupmentPanel.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\LogWindow.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\MedecineList.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\MergeRooms.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\MoveEquipment.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\RenovateForm.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\RenovateWindow.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Report.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Rooms.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\SplitRoom.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\SuccesfullyUpdate.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\AddMedicine.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Tutorials\AddRoomTutorial.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Tutorials\DelateRoomTutorial.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Tutorials\RenovateRoomTutorial.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\Tutorials\UpdateRoomTutorial.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\UpdateForm.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\UpdateRoomWindow.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\AboutUs.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\AddAppointmentPage.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\AddNote.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Appointments.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\DetailsAppointmentPage.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\EditAppointmentPage.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Feedback.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\HomePage.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Info.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\MainPatientWindow.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\MedicalRecord.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Notes.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Report.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\SuggestedAppointments.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Pacijent\Therapy.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\CreateMeetingView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\CreatePatient.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\DaysOffRequestView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\DenyRequestView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\AddRoomWindow.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\DeleteRoom.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\MainWindowMenager.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Menager\RoomsList.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\View\Sekretar\MeetingsView.baml
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS.g.resources
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS.Properties.Resources.resources
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS.csproj.GenerateResource.cache
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS.csproj.CopyComplete
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS.exe
+C:\Users\Korisnik\Documents\HCI\HCI - Projekat\SIMS\obj\Debug\SIMS.pdb

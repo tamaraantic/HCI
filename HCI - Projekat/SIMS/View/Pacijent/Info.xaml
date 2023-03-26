@@ -1,0 +1,35 @@
+﻿<Page x:Class="SIMS.View.Pacijent.Info"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SIMS.View.Pacijent"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Info">
+    <Grid Margin="0,0,0,-0.4">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Column="0" TextWrapping="Wrap" Text="Kontakt informacije&#x0a;
+        ZDRAVO KLINIKA&#x0a;
+        Specijalistički centar&#x0a;
+        &#x0a;
+        Pave Radana 57, 78000 Banja Luka&#x0a;
+        Telefoni: (+387 51) 309 222, 309 224&#x0a;
+        Telefon/fax: (+387 51) 309 221&#x0a;
+        E-mail: info@zdravoklinika.ba&#x0a;
+        &#x0a;
+        Poslovna jedinica Medicinska elektronika&#x0a;
+
+        Vuka Karadžića 6, 78000 Banja Luka&#x0a;
+        Telefoni: (+387 51) 241 222, 215 204&#x0a;
+        Fax: (+387 51) 241 233&#x0a;"
+        Style="{DynamicResource tekst}" FontSize="16" Margin="0,9,0,95" />
+        <TextBlock Grid.Column="1" Style="{DynamicResource tekst}" FontSize="16"
+                   TextWrapping="Wrap" Margin="0,0,0,94.6"><Run Text="Radno v"/><Run Text="rijem"/><Run Text="e"/><Run Text="&#xA;             Naše usluge na obe lokacije možete potražiti u sljedećim terminima:&#xA;             "/><Run Text="&#xA;             Radnim danima:"/><Run Text="&#xA;             07:00 - 20:00&#xA;             &#xA;             Subotom&#xA;             08:00 - 15:00&#xA;             &#xA;             Nedjelja je neradni dan.&#xA;             &#xA;             Zakazivanje pregleda"/><Run Text=" je poželjno kad god je to moguće.&#xA;"/></TextBlock>
+
+    </Grid>
+</Page>
