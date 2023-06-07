@@ -7,7 +7,7 @@ System supports:
 * manager role
 + director role
 
-To log in to system as patient use: 
+To log into the system as patient use: 
 - username : Mirko.Mirkovic
 + password: mirko123
 
